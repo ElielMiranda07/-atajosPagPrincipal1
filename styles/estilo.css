@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: blueviolet;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    height: calc(100vh - 100px);
+}
+
+.mainS{
+    background-color: black;
+    height: 100vh;
+}
+
+.mainS p{
+    color: red;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#div__1{
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.logoi{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logoi:hover{
+    color: rgb(124, 124, 124);
+}
+
+.logogpt{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logogpt:hover{
+    color: rgb(34, 197, 135);
+}
+
+.logom{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logom:hover{
+    color: gold;
+}
+
+.logog{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logog:hover{
+    color: rgb(38, 96, 255);
+}
+
+.logogh{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logogh:hover{
+    color: rgb(124, 124, 124);
+}
+
+.logob{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logob:hover{
+    color: rgb(132, 14, 243);
+}
+
+.logoy{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logoy:hover{
+    color: rgb(255, 0, 0);
+}
+
+.logot{
+    color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.logot:hover{
+    color: blueviolet;
+}
+
+.fotoM{
+    height: 100vh;
+    width: auto;
+}
